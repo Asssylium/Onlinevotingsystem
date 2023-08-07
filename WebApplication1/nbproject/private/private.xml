@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+<<<<<<< HEAD
+            <file>file:/D:/SWP319_lastversion/onlinevotingsystem/WebApplication1/src/java/Control/Host/TimeUpdateController.java</file>
+            <file>file:/D:/SWP319_lastversion/onlinevotingsystem/WebApplication1/web/WEB-INF/ViewCampaignDetailsFinished.jsp</file>
+            <file>file:/D:/SWP319_lastversion/onlinevotingsystem/WebApplication1/web/WEB-INF/SetupCampaign.jsp</file>
+            <file>file:/D:/SWP319_lastversion/onlinevotingsystem/WebApplication1/src/java/Control/Host/UpdateCandidateController.java</file>
+            <file>file:/D:/SWP319_lastversion/onlinevotingsystem/WebApplication1/web/WEB-INF/HomePage.jsp</file>
+            <file>file:/D:/SWP319_lastversion/onlinevotingsystem/WebApplication1/web/WEB-INF/web.xml</file>
+            <file>file:/D:/SWP319_lastversion/onlinevotingsystem/WebApplication1/src/java/Model/DatabaseConnection.java</file>
+            <file>file:/D:/SWP319_lastversion/onlinevotingsystem/WebApplication1/src/java/Control/Host/DashBoardController.java</file>
+            <file>file:/D:/SWP319_lastversion/onlinevotingsystem/WebApplication1/web/css/ChoiceList.css</file>
+            <file>file:/D:/SWP319_lastversion/onlinevotingsystem/WebApplication1/src/java/Control/User/UserHomeController.java</file>
+            <file>file:/D:/SWP319_lastversion/onlinevotingsystem/WebApplication1/web/WEB-INF/Detail.jsp</file>
+            <file>file:/D:/SWP319_lastversion/onlinevotingsystem/WebApplication1/src/java/Control/Host/ReloadController.java</file>
+            <file>file:/D:/SWP319_lastversion/onlinevotingsystem/WebApplication1/src/java/Control/Host/DeleteOptionController.java</file>
+            <file>file:/D:/SWP319_lastversion/onlinevotingsystem/WebApplication1/src/java/Model/Account.java</file>
+            <file>file:/D:/SWP319_lastversion/onlinevotingsystem/WebApplication1/web/WEB-INF/Review.jsp</file>
+            <file>file:/D:/SWP319_lastversion/onlinevotingsystem/WebApplication1/web/WEB-INF/EditRankingVote.jsp</file>
+            <file>file:/D:/SWP319_lastversion/onlinevotingsystem/WebApplication1/src/java/Control/Host/ListChoiceController.java</file>
+            <file>file:/D:/SWP319_lastversion/onlinevotingsystem/WebApplication1/src/java/Model/Campaign.java</file>
+            <file>file:/D:/SWP319_lastversion/onlinevotingsystem/WebApplication1/src/java/Control/Host/ValidateVoterController.java</file>
+            <file>file:/D:/SWP319_lastversion/onlinevotingsystem/WebApplication1/src/java/Model/Vote.java</file>
+            <file>file:/D:/SWP319_lastversion/onlinevotingsystem/WebApplication1/src/java/Model/VotingObject.java</file>
+            <file>file:/D:/SWP319_lastversion/onlinevotingsystem/WebApplication1/src/java/Control/Host/AddVoterController.java</file>
+            <file>file:/D:/SWP319_lastversion/onlinevotingsystem/WebApplication1/src/java/Control/Host/SetupController.java</file>
+            <file>file:/D:/SWP319_lastversion/onlinevotingsystem/WebApplication1/web/WEB-INF/HostDashboard.jsp</file>
+            <file>file:/D:/SWP319_lastversion/onlinevotingsystem/WebApplication1/src/java/Control/Host/DownloadExcelController.java</file>
+            <file>file:/D:/SWP319_lastversion/onlinevotingsystem/WebApplication1/src/java/Control/User/EditVoteController.java</file>
+            <file>file:/D:/SWP319_lastversion/onlinevotingsystem/WebApplication1/web/WEB-INF/ConfirmOTP.jsp</file>
+            <file>file:/D:/SWP319_lastversion/onlinevotingsystem/WebApplication1/web/WEB-INF/EditCampaign.jsp</file>
+=======
+            <file>file:/D:/SWP/onlinevotingsystem/WebApplication1/web/WEB-INF/AdminHomePage.jsp</file>
+            <file>file:/D:/SWP/onlinevotingsystem/WebApplication1/web/WEB-INF/ChangePassword.jsp</file>
+            <file>file:/D:/SWP/onlinevotingsystem/WebApplication1/src/java/Control/User/UserHomeController.java</file>
+            <file>file:/D:/SWP/onlinevotingsystem/WebApplication1/src/java/Model/DatabaseConnection.java</file>
+            <file>file:/D:/SWP/onlinevotingsystem/WebApplication1/web/WEB-INF/ForgotPassword.jsp</file>
+            <file>file:/D:/SWP/onlinevotingsystem/WebApplication1/web/WEB-INF/HomePage.jsp</file>
+            <file>file:/D:/SWP/onlinevotingsystem/WebApplication1/src/java/Model/Campaign.java</file>
+            <file>file:/D:/SWP/onlinevotingsystem/WebApplication1/web/WEB-INF/Profile.jsp</file>
+            <file>file:/D:/SWP/onlinevotingsystem/WebApplication1/web/WEB-INF/SearchUser.jsp</file>
+>>>>>>> 5b771213532c46101eb96589e234f0a5f9473795
+        </group>
+    </open-files>
+</project-private>
